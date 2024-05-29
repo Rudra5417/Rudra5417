@@ -21,4 +21,5 @@ Graduate data science student at University of Southern California.<br>I'm curre
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rudra-patel-64b7b5169/) 
 
-
+## Progress:
+[![roadmap.sh](https://roadmap.sh/card/tall/66567439b998f3b3c7b0c218?variant=dark)](https://roadmap.sh)
