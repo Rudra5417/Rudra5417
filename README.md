@@ -1,14 +1,16 @@
 # Rudra Patel
 
-Data science, University of Southern California. I build analytics products and ML tools — public APIs, document Q&A, and end-to-end models.
+Discover Ops Manager at Epic Games, Fortnite. I work on how islands surface in Discover — ranking, rows, and the creator ecosystem.
 
-## Featured
+Previously: data science, University of Southern California.
+
+## Featured (personal)
 
 **[Stormglass](https://github.com/Rudra5417/stormglass)** · [Live site](https://feat-stormglass-v1.vercel.app)
 
-Public Fortnite Creative / UEFN island analytics. Look up an island by code and see how it is playing and where it sits in genre rankings. Next.js, TypeScript, Epic’s public Data API. No login and no API keys.
+A personal project: public Fortnite Creative / UEFN island analytics from Epic’s public Data API. Look up an island by code and see how it is playing and where it sits in genre rankings. Next.js, TypeScript. No login and no API keys.
 
-Not affiliated with Epic Games or Fortnite.
+Stormglass is not affiliated with Epic Games or Fortnite, and is not an official Epic product.
 
 ## Selected projects
 
