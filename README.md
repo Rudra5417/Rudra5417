@@ -1,24 +1,40 @@
-# Rudra Patel
+<!--
+  ═══════════════════════════════════════════════════════════════
+  ↑ ↑ ↓ ↓ ← → ← → B A
+  ═══════════════════════════════════════════════════════════════
+-->
+```
+// live ops · analytics · builder — los angeles, ca
+```
 
-Discover Ops Manager at Epic Games, Fortnite. I work on how islands surface in Discover — ranking, rows, and the creator ecosystem.
+```text
+$ whoami
+rudra.patel — Discover Operations Manager @ Epic Games (Fortnite)
+              M.S. Applied Data Science (USC)
 
-Previously: data science, University of Southern California.
+$ career --timeline
+DRDO ➜ Easley-Dunn ➜ AWS ➜ Epic Games
 
-## Featured (personal)
+$ status
+online — shipping Ch7 · S3 Runners · decoding WHOOPs
+```
 
-**[Stormglass](https://github.com/Rudra5417/stormglass)** · [Live site](https://feat-stormglass-v1.vercel.app)
+I run Fortnite Discover's live operations — measuring what ships, what holds players, and what changes next week — and build tools on the side that make official SDKs look shy.
 
-A personal project: public Fortnite Creative / UEFN island analytics from Epic’s public Data API. Look up an island by code and see how it is playing and where it sits in genre rankings. Next.js, TypeScript. No login and no API keys.
+**[portfolio ↗](https://rudra5417.github.io)** · **[linkedin ↗](https://www.linkedin.com/in/rudra-patel-64b7b5169/)** · **rudrapatel.data@gmail.com**
 
-Stormglass is not affiliated with Epic Games or Fortnite, and is not an official Epic product.
+### builds
 
-## Selected projects
+| project | what it is |
+|---|---|
+| **[whoop5-protocol](https://github.com/Rudra5417/whoop5-protocol)** | Decoded how the WHOOP 5.0 talks over Bluetooth — live + historical biometrics with no SDK, no app. Proven on four real captures from a device worn on a wrist, not a simulator. |
+| **[stormglass](https://github.com/Rudra5417/stormglass)** | UEFN island analytics: last-day KPIs, hourly CCU, genre rank hold. [Live app](https://feat-stormglass-v1.vercel.app) · not affiliated with Epic. |
+| **[clarify](https://github.com/Rudra5417/clarify)** | Drop a PDF or image, get what it is, what to do, and which fields might be wrong. |
 
-- [DocBot](https://github.com/Rudra5417/DocBot-Advanced-Q-A-Chatbot-for-Document-Insights) — Q&A over PDFs with embeddings and LLMs
-- [OilSight](https://github.com/Rudra5417/OilSight--Advanced-Analytics---Visualization-for-Oil-Well-Data) — extract oil-well data from documents and map it
-- [Troy AI Safety bot](https://github.com/Rudra5417/Troy-AI-Safety-bot) — LLM chatbot for public safety
-- [Disease classification (MLflow)](https://github.com/Rudra5417/End-to-End-Disease-classification-with-MlFlow) — end-to-end classification pipeline
+### stack
 
-## Contact
+SQL · Databricks · BigQuery · Statsig · Grafana · Airflow · Swift · Python · TypeScript · UEFN
 
-[LinkedIn](https://www.linkedin.com/in/rudra-patel-64b7b5169/)
+### now
+
+Shipping Ch7 S3 (Runners) at Epic. Latest side quest: BLE protocol archaeology.
